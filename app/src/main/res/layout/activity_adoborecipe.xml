@@ -215,126 +215,126 @@
                 app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintVertical_bias="0.45" />
 
-    <TextView
-        android:id="@+id/textView15"
-        android:layout_width="380dp"
-        android:layout_height="35dp"
-        android:text=" Heat oil in a wide, heavy-bottomed pan over medium heat. Add the sliced onions and sauté until translucent."
-        android:textSize="14sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.322"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.489" />
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="380dp"
+                android:layout_height="wrap_content"
+                android:text=" Heat oil in a wide, heavy-bottomed pan over medium heat. Add the sliced onions and sauté until translucent."
+                android:textSize="14sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.322"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.489" />
 
-    <TextView
-        android:id="@+id/textView16"
-        android:layout_width="267dp"
-        android:layout_height="18dp"
-        android:text="Add the marinated pork:"
-        android:textSize="14sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.069"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.527" />
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="267dp"
+                android:layout_height="wrap_content"
+                android:text="Add the marinated pork:"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.069"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.527" />
 
-    <TextView
-        android:id="@+id/textView17"
-        android:layout_width="379dp"
-        android:layout_height="35dp"
-        android:text="Add the marinated pork to the pan. Sauté until the meat is browned on all sides. "
-        android:textSize="14sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.312"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.566" />
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="379dp"
+                android:layout_height="wrap_content"
+                android:text="Add the marinated pork to the pan. Sauté until the meat is browned on all sides. "
+                android:textSize="14sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.312"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.566" />
 
-    <TextView
-        android:id="@+id/textView18"
-        android:layout_width="274dp"
-        android:layout_height="19dp"
-        android:text="Pour in vinegar and water:"
-        android:textSize="14sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.08"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.602" />
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="274dp"
+                android:layout_height="wrap_content"
+                android:text="Pour in vinegar and water:"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.08"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.602" />
 
-    <TextView
-        android:id="@+id/textView19"
-        android:layout_width="385dp"
-        android:layout_height="52dp"
-        android:text="Pour in the vinegar, and let it simmer for a few minutes to cook off the acidity. Then, add water, soy sauce, and bay leaves. Bring it to a boil. "
-        android:textSize="14sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.384"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.659" />
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="385dp"
+                android:layout_height="wrap_content"
+                android:text="Pour in the vinegar, and let it simmer for a few minutes to cook off the acidity. Then, add water, soy sauce, and bay leaves. Bring it to a boil. "
+                android:textSize="14sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.384"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.659" />
 
-    <TextView
-        android:id="@+id/textView20"
-        android:layout_width="269dp"
-        android:layout_height="21dp"
-        android:text="Simmer:"
-        android:textSize="14sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.07"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.704" />
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="269dp"
+                android:layout_height="wrap_content"
+                android:text="Simmer:"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.07"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.704" />
 
-    <TextView
-        android:id="@+id/textView21"
-        android:layout_width="362dp"
-        android:layout_height="37dp"
-        android:text="Lower the heat, cover the pan, and let it simmer for about 40-60 minutes or until the pork is tender. Stir occasionally. "
-        android:textSize="14sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.204"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.75" />
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="362dp"
+                android:layout_height="wrap_content"
+                android:text="Lower the heat, cover the pan, and let it simmer for about 40-60 minutes or until the pork is tender. Stir occasionally. "
+                android:textSize="14sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.204"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.75" />
 
-    <TextView
-        android:id="@+id/textView22"
-        android:layout_width="271dp"
-        android:layout_height="20dp"
-        android:text="Adjust seasoning:"
-        android:textSize="14sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.071"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.784" />
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_width="271dp"
+                android:layout_height="wrap_content"
+                android:text="Adjust seasoning:"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.071"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.784" />
 
-    <TextView
-        android:id="@+id/textView23"
-        android:layout_width="383dp"
-        android:layout_height="53dp"
-        android:text="Taste the adobo and adjust the seasoning by adding salt and pepper as needed. You can also add a bit more soy sauce or vinegar according to your taste preference. "
-        android:textSize="14sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.392"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.851" />
+            <TextView
+                android:id="@+id/textView23"
+                android:layout_width="383dp"
+                android:layout_height="wrap_content"
+                android:text="Taste the adobo and adjust the seasoning by adding salt and pepper as needed. You can also add a bit more soy sauce or vinegar according to your taste preference. "
+                android:textSize="14sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.392"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.851" />
 
     <TextView
         android:id="@+id/textView24"
@@ -350,18 +350,18 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.886" />
 
-    <TextView
-        android:id="@+id/textView25"
-        android:layout_width="359dp"
-        android:layout_height="50dp"
-        android:text="Once the pork is tender and the sauce has thickened, remove the bay leaves, and it's ready to serve. Adobo is often enjoyed with steamed rice. "
-        android:textSize="14sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.192"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.954" />
+            <TextView
+                android:id="@+id/textView25"
+                android:layout_width="359dp"
+                android:layout_height="76dp"
+                android:text="Once the pork is tender and the sauce has thickened, remove the bay leaves, and it's ready to serve. Adobo is often enjoyed with steamed rice. "
+                android:textSize="14sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.192"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.954" />
 
 </LinearLayout>
     </ScrollView>

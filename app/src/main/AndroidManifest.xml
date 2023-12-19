@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RecipeApp"
+        tools:targetApi="31">
+        <activity
+            android:name=".Stick_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".Sushi_Bowls_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".Cioppinos_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".Crab_boils_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".Butter_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".Chilis_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".Polenta_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".garlic_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".Parmesan_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".Schnitzel_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".Eggplant_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".Potatoes_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".Fennel_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".Carrots_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".R_Vegetables"
+            android:exported="false" />
+        <activity
+            android:name=".firecacker_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".SeaFoods_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".sheet_pam_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".fishTacus_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".coconut_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".ceviche_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".scampi_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".lobster_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".spicyTuna_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".bowls_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".blackened_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".Blackened_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".padthai_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".mami_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".inasal_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".empanada_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".beef_tafa_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".embutido_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".afritada_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".rollslumpia_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".Lumpiaa_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".candied_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".corn_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".melting_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".creampeas_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".broccoli_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".capre_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".brown_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".roasted_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".root_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".salad_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".Bagnet_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".Bulalo_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".Mechado_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".moreMeat"
+            android:exported="false" />
+        <activity
+            android:name=".tahong_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".dilis_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".hipon_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".pusit_rrecipe"
+            android:exported="false" />
+        <activity
+            android:name=".alimasag_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".srimp_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".kaldereta_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".menudo_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".belly_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".sisigrecipe"
+            android:exported="false" />
+        <activity
+            android:name=".curry_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".sitaw_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".okra_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".lumpia_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".kangkongrecipe"
+            android:exported="false" />
+        <activity
+            android:name=".monggo_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".turta_recipe"
+            android:exported="false" />
+        <activity
+            android:name=".adoborecipe"
+            android:exported="false" />
+        <activity
+            android:name=".Second_SEA"
+            android:exported="false" />
+        <activity
+            android:name=".Second_Meat"
+            android:exported="false" />
+        <activity
+            android:name=".Second_Veg"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

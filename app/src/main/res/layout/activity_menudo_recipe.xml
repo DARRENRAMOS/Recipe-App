@@ -290,7 +290,7 @@
             <TextView
                 android:id="@+id/textView14"
                 android:layout_width="401dp"
-                android:layout_height="wrap_content"
+                android:layout_height="412dp"
                 android:text="Sauté Aromatics:
 
 In a large pot, heat cooking oil over medium heat. Sauté the minced garlic until golden brown, then add the chopped onions. Cook until the onions are translucent.

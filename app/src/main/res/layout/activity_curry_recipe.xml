@@ -252,6 +252,19 @@
         app:layout_constraintVertical_bias="0.431" />
 
         <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.037"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.431" />
+
+        <TextView
             android:id="@+id/textView14"
             android:layout_width="274dp"
             android:layout_height="wrap_content"
@@ -431,8 +444,8 @@ Add minced garlic and grated ginger, and cook for an additional 1-2 minutes unti
 
         <TextView
             android:id="@+id/textView28"
-            android:layout_width="389dp"
-            android:layout_height="51dp"
+            android:layout_width="391dp"
+            android:layout_height="56dp"
             android:text="Bring the curry to a simmer, then reduce the heat to low. Cover the pot and let it simmer for about 30-40 minutes or until the chicken is fully cooked and tender."
             android:textSize="14sp"
             app:layout_constraintBottom_toBottomOf="parent"
@@ -445,7 +458,7 @@ Add minced garlic and grated ginger, and cook for an additional 1-2 minutes unti
         <TextView
             android:id="@+id/textView29"
             android:layout_width="274dp"
-            android:layout_height="20dp"
+            android:layout_height="23dp"
             android:text="Season and Garnish:"
             android:textSize="14sp"
             android:textStyle="bold"
@@ -459,7 +472,7 @@ Add minced garlic and grated ginger, and cook for an additional 1-2 minutes unti
         <TextView
             android:id="@+id/textView30"
             android:layout_width="389dp"
-            android:layout_height="51dp"
+            android:layout_height="70dp"
             android:text="Season the curry with salt and pepper to taste. Adjust the seasoning if needed.
 Garnish with fresh cilantro leaves before serving."
             android:textSize="14sp"

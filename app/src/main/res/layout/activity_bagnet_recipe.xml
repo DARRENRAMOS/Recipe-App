@@ -254,7 +254,7 @@
             <TextView
                 android:id="@+id/textView14"
                 android:layout_width="match_parent"
-                android:layout_height="323dp"
+                android:layout_height="336dp"
                 android:text="For the Bagnet:
 
 Rub salt and pepper onto the pork belly slices.

@@ -156,7 +156,7 @@ Once cooked, let the eggplants cool. Peel off the skin, leaving the stems intact
             <TextView
                 android:id="@+id/textView15"
                 android:layout_width="394dp"
-                android:layout_height="43dp"
+                android:layout_height="wrap_content"
                 android:text="Lay the peeled eggplants on a flat surface.
 Using a fork or the back of a spoon, gently flatten the eggplants, spreading the flesh and forming a flat surface."
                 android:textSize="12sp"

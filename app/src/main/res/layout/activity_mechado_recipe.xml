@@ -224,11 +224,11 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
 
-    <TextView
-        android:id="@+id/textView14"
-        android:layout_width="375dp"
-        android:layout_height="287dp"
-        android:text="In a large pot or Dutch oven, heat oil over medium heat. Sauté onions and garlic until aromatic.
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="396dp"
+                android:layout_height="398dp"
+                android:text="In a large pot or Dutch oven, heat oil over medium heat. Sauté onions and garlic until aromatic.
 
 Add the beef cubes and brown on all sides.
 
@@ -237,13 +237,13 @@ Pour in the tomato sauce, soy sauce, and beef broth. Add the bay leaf. Season wi
 Once the beef is tender, add the potatoes, carrots, and red bell pepper. Continue cooking until the vegetables are fork-tender.
 
 Adjust the seasoning if necessary. Serve hot with steamed rice."
-        android:textSize="17sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.333"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.878" />
+                android:textSize="17sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.333"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.878" />
 
 
 </LinearLayout>

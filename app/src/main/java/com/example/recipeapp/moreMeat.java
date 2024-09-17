@@ -111,6 +111,15 @@ public class moreMeat extends AppCompatActivity {
             }
         });
 
+        button8.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+                Intent intent = new Intent(moreMeat.this,empanada_recipe.class);
+                startActivity(intent);
+            }
+        });
+
 
         button9.setOnClickListener(new View.OnClickListener() {
             @Override
